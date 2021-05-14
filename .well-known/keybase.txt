@@ -1,0 +1,57 @@
+
+==================================================================
+https://keybase.io/jidemoto
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://james.idemo.to
+  * I am jidemoto (https://keybase.io/jidemoto) on keybase.
+  * I have a public key ASC7A6CUB3kQMuZYeMuubhfvQJ08NyjS3E3hvHF9Y05a5go
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101ac48d09758deb1566c63e760d4a528e403512ce129dd329f3415c3c3afe66a1d0a",
+      "host": "keybase.io",
+      "kid": "0120bb03a09407791032e65878cbae6e17ef409d3c3728d2dc4de1bc717d634e5ae60a",
+      "uid": "da112e60a3b6c22bc7f016a5cfae5119",
+      "username": "jidemoto"
+    },
+    "merkle_root": {
+      "ctime": 1621031880,
+      "hash": "449d1786bc508ada8366f6787a889c16b7e761f27904173e6319007c41a857585df726b3e302d03d73d2d03c083073cbd7f48e66b5ebf0193d55c69d9dfcb58e",
+      "hash_meta": "9f57c96d1ec7a4349bebc88b8fa198ee73f3cff8fdc79133d1eaf72d28712a79",
+      "seqno": 19945968
+    },
+    "service": {
+      "entropy": "lmX0XZ3C9HnOBsR0NDTqiKI5",
+      "hostname": "james.idemo.to",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.6.2"
+  },
+  "ctime": 1621031903,
+  "expire_in": 504576000,
+  "prev": "6d07c43ff602b74d7022fd6e91c458c88953f205fa5815e279fa4a4045834c67",
+  "seqno": 43,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEguwOglAd5EDLmWHjLrm4X70CdPDco0txN4bxxfWNOWuYKp3BheWxvYWTESpcCK8QgbQfEP/YCt01wIv1ukcRYyIlT8gX6WBXiefpKQEWDTGfEIL7Kyj13lJVlKvbUiY0bmqr8+VUqrGmdjqzbSUw5XlUKAgHCo3NpZ8RArFgbHodwZfJgw4MxzU2IWqbu9dKU4wflMW3K0+ZVx4qH2YuClWrZ8DBYVwUa2d62Pmvro4dADrxmpYPTQXwdBKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIOdqiU/vvyP+6l4Cyq988vtj4hiDpjU1ksvCO57OkduGo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jidemoto
+
+==================================================================
