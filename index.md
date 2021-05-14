@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @jidemoto
+- 👀 I’m interested in scalable web services, space science, and secure software systems.
+- 🌱 I’m currently learning cybersecurity at Georgia Tech
+- 🕒 I used to work at [USRA RIACS](https://riacs.usra.edu/) as a software engineer.
+- 🖥️ I currently work at [Ripcord](https://www.ripcord.com/) as a Lead Software Engineer.
+- 📫 You can reach me at [LinkedIn](https://www.linkedin.com/in/james-idemoto/)!  I also have a [site with a cheeky domain name that I've neglected](http://james.idemo.to).
