@@ -1,7 +1,7 @@
-- 👋 Hi, I’m James Idemoto
+- 👋 Hi, I’m James Idemoto!
 - 👀 I’m interested in scalable web services and secure software systems.
-- 🌱 I’m currently learning cybersecurity at Georgia Tech
-- 🌎 I currently work for [Atlassian](https://www.atlassian.com/) on a Data Platform team working with streaming systems!
+- 🌱 I earned a MS in Cybersecurity from Georgia Tech and a BS in Computer Science and Applied Mathematics from San Jose State University
+- 🌎 I'm currently working for [Atlassian](https://www.atlassian.com/) on a Data Platform team that's building streaming systems!
 - 🖥️ I used to work at [Ripcord](https://www.ripcord.com/) as a Lead Software Engineer and Interim Devops Lead building systems with Java on Kubernetes.
 - 🕒 Before that, I worked at [USRA RIACS](https://riacs.usra.edu/) as a software engineer.
 - 📫 You can reach me at [LinkedIn](https://www.linkedin.com/in/james-idemoto/)!
