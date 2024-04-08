@@ -1,0 +1,108 @@
+// Zaouli's Bane - Dorphat's Roll ()
+//notes: Yes
+dimwishlist:item=431721920&perks=3038247973,3824105627
+dimwishlist:item=431721920&perks=3038247973,1183436451
+dimwishlist:item=431721920&perks=64866129,3824105627
+dimwishlist:item=431721920&perks=64866129,1183436451
+
+
+// Rufus's Fury - Dorphat's Roll ()
+//notes: Yes
+dimwishlist:item=484515708&perks=3418782618,365154968
+dimwishlist:item=484515708&perks=3418782618,2939589096
+dimwishlist:item=484515708&perks=1563455254,365154968
+dimwishlist:item=484515708&perks=1563455254,2939589096
+
+
+// Rufus's Fury - Dorphat's Other Roll ()
+//notes: Yes
+dimwishlist:item=484515708&perks=3523296417,831391274
+dimwishlist:item=484515708&perks=3523296417,102912326
+dimwishlist:item=484515708&perks=1906147653,831391274
+dimwishlist:item=484515708&perks=1906147653,102912326
+
+
+// Forbearance - Dorphat's Roll (pve)
+//notes: Yes tags:pve
+dimwishlist:item=613334176&perks=3108830275,2396489472
+dimwishlist:item=613334176&perks=3108830275,598607952
+dimwishlist:item=613334176&perks=855168139,2396489472
+dimwishlist:item=613334176&perks=855168139,598607952
+
+
+// Cold Comfort - Dorphat's Roll (god-pve)
+//notes: Yes tags:god-pve
+dimwishlist:item=839786290&perks=968510818,3078487919
+
+
+// Deafening Whisper - Dorphat's Roll (pve)
+//notes: Yes tags:pve
+dimwishlist:item=981718087&perks=2010801679,3425386926
+
+
+// Cataclysmic - Dorphat's Roll (pve)
+//notes: Yes tags:pve
+dimwishlist:item=999767358&perks=1354429876,2896038713
+dimwishlist:item=999767358&perks=1354429876,2402480669
+dimwishlist:item=999767358&perks=848860060,2896038713
+dimwishlist:item=999767358&perks=848860060,2402480669
+
+
+// IKELOS_SMG_v1.0.3 - Dorphat's Roll (pve)
+//notes: Yes tags:pve
+dimwishlist:item=2149683300&perks=1428297954,2173046394
+dimwishlist:item=2149683300&perks=1428297954,1720528630
+dimwishlist:item=2149683300&perks=2014892510,2173046394
+dimwishlist:item=2149683300&perks=2014892510,1720528630
+
+
+// Fatebringer - Dorphat's Roll (pve)
+//notes: Yes tags:pve
+dimwishlist:item=2171478765&perks=3038247973,3824105627
+
+
+// CALUS Mini-Tool - Dorphat's Roll (pve)
+//notes: Yes tags:pve
+dimwishlist:item=2490988246&perks=1631667848,4293542123
+dimwishlist:item=2490988246&perks=1631667848,2675184851
+dimwishlist:item=2490988246&perks=402033656,4293542123
+dimwishlist:item=2490988246&perks=402033656,2675184851
+
+
+// Nox Perennial V - Dorphat's Roll (god-pve)
+//notes: Yes tags:god-pve
+dimwishlist:item=2767393525&perks=968510818,2594592626
+
+
+// Succession - Dorphat's Roll (pve)
+//notes: Yes tags:pve
+dimwishlist:item=2990047042&perks=461595545,1546637391
+dimwishlist:item=2990047042&perks=461595545,3418165135
+dimwishlist:item=2990047042&perks=1523832109,1546637391
+dimwishlist:item=2990047042&perks=1523832109,3418165135
+
+
+// Retrofit Escapade - Dorphat's Roll (pve)
+//notes: Yes tags:pve
+dimwishlist:item=3103325054&perks=1409206216,4290541820
+dimwishlist:item=3103325054&perks=1409206216,2610012052
+dimwishlist:item=3103325054&perks=1583705720,4290541820
+dimwishlist:item=3103325054&perks=1583705720,2610012052
+
+
+// The Eremite - Dorphat's Roll (god-pve)
+//notes: Yes tags:god-pve
+dimwishlist:item=3347946548&perks=424370782,2037312142
+dimwishlist:item=3347946548&perks=424370782,2594592626
+dimwishlist:item=3347946548&perks=968510818,2037312142
+dimwishlist:item=3347946548&perks=968510818,2594592626
+
+
+// Commemoration - Dorphat's Roll (pve)
+//notes: Yes tags:pve
+dimwishlist:item=4230965989&perks=1820235745,557221067
+dimwishlist:item=4230965989&perks=1820235745,2896748467
+dimwishlist:item=4230965989&perks=4245865861,557221067
+dimwishlist:item=4230965989&perks=4245865861,2896748467
+
+
