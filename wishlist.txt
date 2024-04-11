@@ -1,3 +1,18 @@
+// Hung Jury SR4 - Datto's "pick" ()
+//notes: But also it's hung jury lol https://www.youtube.com/watch?v=Z7xl5z116KU
+dimwishlist:item=205225492&perks=247725512,2109543898
+
+
+// Falling Guillotine - Datto's Pick for Gyrfalcon Hunters (pve)
+//notes: https://www.youtube.com/watch?v=Z7xl5z116KU tags:pve
+dimwishlist:item=243425374&perks=776531651,2048641572
+
+
+// Falling Guillotine - Datto's Pick (classic roll) (pve)
+//notes: https://www.youtube.com/watch?v=Z7xl5z116KU tags:pve
+dimwishlist:item=243425374&perks=1749209109,3913600130
+
+
 // Zaouli's Bane - Dorphat's Roll ()
 //notes: Yes
 dimwishlist:item=431721920&perks=3038247973,3824105627
@@ -20,6 +35,11 @@ dimwishlist:item=484515708&perks=3523296417,831391274
 dimwishlist:item=484515708&perks=3523296417,102912326
 dimwishlist:item=484515708&perks=1906147653,831391274
 dimwishlist:item=484515708&perks=1906147653,102912326
+
+
+// Succession - Datto's Pick (pve)
+//notes: https://www.youtube.com/watch?v=Z7xl5z116KU tags:pve
+dimwishlist:item=570866107&perks=1523832109,469285294
 
 
 // Forbearance - Dorphat's Roll (pve)
@@ -61,6 +81,16 @@ dimwishlist:item=2149683300&perks=2014892510,1720528630
 dimwishlist:item=2171478765&perks=3038247973,3824105627
 
 
+// Edge Transit - Datto's Pick (Boss DPS GL) ()
+//notes: https://www.youtube.com/watch?v=Z7xl5z116KU
+dimwishlist:item=2228325504&perks=968510818,3078487919
+
+
+// Edge Transit - Datto's Pick (Might Be Fun) ()
+//notes: https://www.youtube.com/watch?v=Z7xl5z116KU
+dimwishlist:item=2228325504&perks=2396489472,2048641572
+
+
 // CALUS Mini-Tool - Dorphat's Roll (pve)
 //notes: Yes tags:pve
 dimwishlist:item=2490988246&perks=1631667848,4293542123
@@ -82,6 +112,16 @@ dimwishlist:item=2990047042&perks=1523832109,1546637391
 dimwishlist:item=2990047042&perks=1523832109,3418165135
 
 
+// The Recluse - Datto's Pick (Funnelweb Clone) ()
+//notes: https://www.youtube.com/watch?v=Z7xl5z116KU
+dimwishlist:item=3098328572&perks=1820235745,4104185692
+
+
+// The Recluse - Datto's Pick ()
+//notes: https://www.youtube.com/watch?v=Z7xl5z116KU
+dimwishlist:item=3098328572&perks=1820235745,3081867624
+
+
 // Retrofit Escapade - Dorphat's Roll (pve)
 //notes: Yes tags:pve
 dimwishlist:item=3103325054&perks=1409206216,4290541820
@@ -96,6 +136,11 @@ dimwishlist:item=3347946548&perks=424370782,2037312142
 dimwishlist:item=3347946548&perks=424370782,2594592626
 dimwishlist:item=3347946548&perks=968510818,2037312142
 dimwishlist:item=3347946548&perks=968510818,2594592626
+
+
+// Elsie's Rifle - Datto's "Pick" ()
+//notes: It's a pulse rifle tho https://www.youtube.com/watch?v=Z7xl5z116KU
+dimwishlist:item=3851176026&perks=3418782618,2109543898
 
 
 // Commemoration - Dorphat's Roll (pve)
